@@ -56,8 +56,7 @@ To get started with this Blackjack game:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/blackjack-game.git
-  ```
-
+  
 2. Navigate to the project directory:
    ```bash
    cd blackjack-game
